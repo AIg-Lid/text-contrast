@@ -32,6 +32,8 @@ diff_match库的判别符意义：
 
 reference
 
- 	1. https://github.com/PaddlePaddle/PaddleOCR
- 	1. https://github.com/google/diff-match-patch
+```bash
+1. https://github.com/PaddlePaddle/PaddleOCR
+2. https://github.com/google/diff-match-patch
+```
 
